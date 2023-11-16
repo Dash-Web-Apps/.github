@@ -3,6 +3,8 @@
 Were just a bunch of highschool friends who share an interest in web and software development.
 # quality of coding software?
 Its a name I came up with for software that improves the quality of life for software devs and beginner programmers.
+# What Languages do we use?
+Any Language will do put we mostly use a combination of javascript and scripting languages
 # Project ideas
 bash script maker
 
